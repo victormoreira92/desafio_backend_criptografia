@@ -1,24 +1,13 @@
-# README
+# Desafio Criptografia
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Essa é uma resolução do desafio de Criptografia, utilizando Ruby on Rails.
 
-Things you may want to cover:
+## Stack 
+ * Ruby version: 
+ * Rails version: 
+ * Database: 
 
-* Ruby version
+## Descrição 
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Como utilizar 
